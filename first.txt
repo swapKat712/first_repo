@@ -1,1 +1,0 @@
-Sample file as part of Git tutorial
